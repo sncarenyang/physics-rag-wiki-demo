@@ -92,13 +92,13 @@ This project is for educational and demonstration purposes only.
 
 
 ## 🌐 License & Copyright
--  The code in this repository is released under the MIT License (or the license you choose).
+-  The code in this repository is released under the MIT License.
 -  The Wikipedia content retrieved via this demo is subject to Wikipedia’s own license and copyright terms.
 
 
 ## 📚 Acknowledgements
--  Thanks to **Hugging Face Space** for providing the free deployment platform.
--  Contributions are welcome
+Thanks to **Hugging Face Space** for providing the free deployment platform.
+
 
 
 
